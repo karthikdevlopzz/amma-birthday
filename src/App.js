@@ -162,9 +162,7 @@ export default function MomTribute() {
     </div>
   ))}
 </div>
-          <p className="text-center text-gray-600 mt-12 text-lg">
-            💡 Tip: Replace these placeholders with your actual photos in the code!
-          </p>
+         
         </div>
       </section>
 
